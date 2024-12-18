@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">DotTask</string>
+
+    <!-- Hints and labels -->
+    <string name="hint_task_input">Enter a task</string>
+    <string name="button_add_task">Add Task</string>
+
+    <!-- Toast Messages -->
+    <string name="toast_empty_task">Please enter a task!</string>
+</resources>
